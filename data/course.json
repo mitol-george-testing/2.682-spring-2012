@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Ocean Engineering"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e26acb20-b5f6-c7ad-1eac-8502f94711ad"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Acoustical Oceanography",
+  "course_description": "This course will begin with brief overview of what important current research topics are in oceanography (physical, geological, and biological) and how acoustics can be used as a tool to address them. Three typical examples are climate, bottom geology, and marine mammal behavior. Will then address the acoustic inverse problem, reviewing inverse methods (linear and nonlinear) and the combination of acoustical methods with other measurements as an integrated system. Last part of course will concentrate on specific case studies, taken from current research journals. This course is taught on campus at MIT and with simultaneous video at Woods Hole Oceanographic Institution.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.682",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
